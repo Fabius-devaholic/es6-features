@@ -1,6 +1,6 @@
 # ECMAScript
 
-ECMAScript 6 is Javascript specification standards, so as to foster multiple independent implementations. ECMAScript is commonly used for not only client-side scripting but also server applications and services using Node.js. Because it is developed by a third-party, it needs a compiler to compile ES6 to pure Javascript. [Babel](https://babeljs.io) + [Webpack](https://webpack.js.org) is a good choice for now.
+ECMAScript 6 is Javascript specification standards so as to foster multiple independent implementations. ECMAScript is commonly used for not only client-side scripting but also server applications and services using Node.js. However, no modern browsers support ES6 at this time, it needs a compiler to compile ES6 to pure Javascript. [Babel](https://babeljs.io) + [Webpack](https://webpack.js.org) is a good choice for now.
 
 Although it takes a plenty of time to master all features in this ES6 version, you will find it worth then. This demo shows you some of which you usually might want to use. The following list tells you what is obtained (consisted of):
 - arrow functions
